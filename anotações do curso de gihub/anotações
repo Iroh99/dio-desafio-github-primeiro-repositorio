@@ -1,0 +1,4 @@
+para criar uma nova chave ssh:
+digite:
+
+$ ssh-keygen -t ed25519 -C (seu email) 
